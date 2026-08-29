@@ -8,7 +8,7 @@ A collection of smart contract security audit reports and guides.
 |---|---|---|
 | [`zakia_buras_smart_contract_security.pdf`](./zakia_buras_smart_contract_security.pdf) | Smart Contract Security guide — built from zero, no assumed background | — |
 | [`2026-08-26-puppy-raffle-report.pdf`](./2026-08-26-puppy-raffle-report.pdf) | Security audit report — Puppy Raffle | [Cyfrin/4-puppy-raffle-audit](https://github.com/Cyfrin/4-puppy-raffle-audit) |
-| [`2026-08-23-password-store-report.pdf`](./2026-08-23-password-store-report.pdf) | Security audit report — Password Store | [Cyfrin/3-passwordstore-audit](https://github.com/Cyfrin/3-passwordstore-audit/tree/audit-data) |
+| [`2026-08-23-password-store-report.pdf`](./2026-08-23-password-store-report.pdf) | Security audit report — Password Store | [Cyfrin/3-passwordstore-audit](https://github.com/Cyfrin/3-passwordstore-audit/tree/main) |
 
 ## 🔍 About
 
